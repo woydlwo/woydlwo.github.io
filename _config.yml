@@ -1,9 +1,9 @@
 # Site settings
-title: 杨德龙 Blog
-SEOTitle: 杨德龙的博客 | Yang Blog
+title: 悳の Blog
+SEOTitle: 悳の的博客 | Yang Blog
 header-img: img/home-bg.jpg
-email: ydl_09weiruan@outlook.com
-description: "这里是 @杨德龙 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+email: ydl_0987weiruan@outlook.com
+description: "这里是 @悳の 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "个人博客"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
